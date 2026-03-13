@@ -662,7 +662,7 @@ This infrastructure is ideal for:
 
 \[Testing] / \[✅ Complete]
 
-\[Documentation] / \[✅ Complete]s
+\[Documentation] / \[✅ Complete]
 
 
 
